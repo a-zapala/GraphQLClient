@@ -1,0 +1,5 @@
+id,lat,lon,plec,rok_urodzenia,zainteresowania, dochod
+"4bcafed8a7eff697d2858e53877fc51e",0,0,kobieta,1996,"['makijaz', 'kucyki']",1000
+"4bcafed8a7eff697d2858e53877fc512",20,21,mezczyzna,1997,"['pilka', 'reklama']",100
+"4bcafed8a7eff697d2858e53877ac513",12, 100,kobieta,2001,,
+"4bcafed8a7eff697d2858e5387aac512",12, 100,mezczyzna,2001,"['zbd']",1
