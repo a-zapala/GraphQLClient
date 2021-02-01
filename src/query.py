@@ -215,10 +215,8 @@ def condition_menu(cond_argument):
 
 
 if __name__ == "__main__":
-    # start_datetime = query_datetime("Proszę podać początek okresu")
-    # end_datetime = query_datetime("Proszę podać koniec okresu")
-    start_datetime = datetime(1970, 1, 1)
-    end_datetime = datetime(2030, 1, 1)
+    start_datetime = query_datetime("Proszę podać początek okresu")
+    end_datetime = query_datetime("Proszę podać koniec okresu")
     cond = init_condition(start_datetime, end_datetime)
     root = cond
 
